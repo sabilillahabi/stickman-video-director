@@ -4,9 +4,6 @@
 
 **Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Fully open-source.**
 
-[![GitHub Stars](https://img.shields.io/github/stars/kaomei/stickman-video-director?style=flat-square)](https://github.com/kaomei/stickman-video-director/stargazers)
-![MIT License](https://img.shields.io/badge/License-MIT-16a34a?style=flat-square)
-
 Start with a topic, an article, or a script. Automatically orchestrate visuals, voiceovers, captions, and sound effects into a production-ready stickman video.
 
 Continually updated visual styles for **science explainers, dark psychology, tech parables, viral lore, and storytelling channels.**
