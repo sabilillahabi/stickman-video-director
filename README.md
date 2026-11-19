@@ -1,7 +1,5 @@
 <div align="center">
 
-[**🇺🇸 EN**](README.en.md) · [🇨🇳 简中](README.zh-CN.md) · [🇯🇵 日本語](README.ja.md) · [🇰🇷 한국어](README.ko.md) · [🇫🇷 FR](README.fr.md) · [🇧🇷 PT-BR](README.pt-BR.md) · [🇹🇷 TR](README.tr.md) · [🇮🇩 ID](README.id.md)
-
 # 🎬 Stickman Video Director
 
 **Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Fully open-source.**
