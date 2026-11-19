@@ -11,8 +11,6 @@
 
 Start with a topic, an article, or a script. Automatically orchestrate visuals, voiceovers, captions, and sound effects into a production-ready stickman video.
 
-**⚡ 100% Free & Open-Source. No camera, no $50/mo subscriptions, and ready in minutes, not days.**
-
 Continually updated visual styles for **science explainers, dark psychology, tech parables, viral lore, and storytelling channels.**
 
 </div>
